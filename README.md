@@ -2,7 +2,7 @@
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.2-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/jayateertha043/FireOver/blob/master/LICENCE.txt" target="_blank">
-    <img alt="License: MITT" src="https://img.shields.io/badge/License-MITT-yellow.svg" />
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MITT-yellow.svg" />
   </a>
   <a href="https://twitter.com/jayateerthaG" target="_blank">
     <img alt="Twitter: jayateerthaG" src="https://img.shields.io/twitter/follow/jayateerthaG.svg?style=social" />
