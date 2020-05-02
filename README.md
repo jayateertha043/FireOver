@@ -9,7 +9,7 @@
   </a>
 </p>
 
-##>This tool is used to takeover Insecure Firebase Databases and automaticaly generate POC to report them,This tool can also delete the POC's done(to remove the datas inserted into the database by this tool).
+>This tool is used to takeover Insecure Firebase Databases and automaticaly generate POC to report them,This tool can also delete or redo the POC's done by this tool(remove the data inserted into the database by this tool).
 
 ## REQUIREMENTS AND INSTALLATION
 >Note:This tool requires Python 3.5 and above <br />
@@ -18,6 +18,7 @@
 
 ## USAGE:
 <img alt="USAGE" src="https://github.com/jayateertha043/FireOver/blob/master/usage.PNG" height="400px" width="400px"><br />
+>Change the Config inside utils/config.py folder before use <br />
 
 ```python FireOver.py -u https://FirebaseDatabaseName.firebaseio.com```
 
