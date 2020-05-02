@@ -26,7 +26,7 @@
 <br /><br />
 ```python FireOver.py -l list.txt -o poc.txt```
 
-```python FireOver.py --list list.txt -o poc.txt```
+```python FireOver.py --list list.txt --output poc.txt```
 <br /><br />
 
 ```python FireOver.py -d poc.txt```
