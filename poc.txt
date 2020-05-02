@@ -1,0 +1,3 @@
+
+
+https://islmaicapp-mahad.firebaseio.com/pwned/pwned.json
