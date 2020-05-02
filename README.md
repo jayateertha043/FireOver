@@ -17,7 +17,7 @@
 
 
 ## USAGE:
-<img alt="USAGE" src="https://github.com/jayateertha043/FireOver/blob/master/usage.PNG" height="200px" width="200px"><br />
+<img alt="USAGE" src="https://github.com/jayateertha043/FireOver/blob/master/usage.PNG" height="400px" width="400px"><br />
 
 ```python FireOver.py -u https://FirebaseDatabaseName.firebaseio.com```
 
@@ -34,7 +34,7 @@
 
 ## DEMO:
 
-<img alt="DEMO" src="https://github.com/jayateertha043/FireOver/blob/master/demo.PNG" height="200px" width="200px"><br />
+<img alt="DEMO" src="https://github.com/jayateertha043/FireOver/blob/master/demo.PNG" height="400px" width="400px"><br />
 
 
 ## Author
@@ -45,7 +45,7 @@
 * Github: [@jayateerthaa043](https://github.com/jayateerthaa043)
 
 ## Show your support
-<a href="https://www.buymeacoffee.com/en3EoKG7j" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="100px" width="150px" ></a><br />
+<a href="https://www.buymeacoffee.com/en3EoKG7j" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50px" width="150px" ></a><br />
 Give a ⭐️ if this project helped you!
 
 
