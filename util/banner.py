@@ -15,5 +15,10 @@ banner='''
 #Twitter:\t[wUB]https://twitter.com/jayateerthaG@
 #Email:\t\t[wUB]jayateertha043\@gmail.com@
 #Github:\t[wUB]https://github.com/jayateertha043@
+
+This tool is used to takeover Insecure Firebase Databases and generate 
+automatic POC to report them.
+
+Any issues report on:\t[wUB]https://github.com/jayateertha043/FireOver
 ###########################################################################
 '''

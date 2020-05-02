@@ -36,7 +36,10 @@ elif args.list:
     f=open(out,'w+')
     for url in urls:
         temp=Takeover(url)
-        f.write(temp+'\n')
+        if(temp!=''):
+            f.write(temp+'\n')
+        else:
+            pass
     f.close()
     printy("\n\n[*]POC URLS file stored at:\t" + out,'y>')
     sys.exit()
