@@ -19,18 +19,18 @@
 ## USAGE:
 <img alt="USAGE" src="https://github.com/jayateertha043/FireOver/blob/master/usage.PNG" style="height:100px;width:100px;"><br />
 
-###python FireOver.py -u https://FirebaseDatabaseName.firebaseio.com
+```python FireOver.py -u https://FirebaseDatabaseName.firebaseio.com```
 
-###python FireOver.py --url https://FirebaseDatabaseName.firebaseio.com 
+```python FireOver.py --url https://FirebaseDatabaseName.firebaseio.com ```
 <br /><br />
-###python FireOver.py -l list.txt -o poc.txt
+```python FireOver.py -l list.txt -o poc.txt```
 
-###python FireOver.py --list list.txt -o poc.txt
+```python FireOver.py --list list.txt -o poc.txt```
 <br /><br />
 
-###python FireOver.py -d poc.txt
+```python FireOver.py -d poc.txt```
 
-###python FireOver.py --delete poc.txt
+```python FireOver.py --delete poc.txt```
 
 ## DEMO:
 
