@@ -17,26 +17,24 @@ pip install -r requirements.txt
 
 
 ## USAGE:
-<img alt="USAGE" src="https://github.com/jayateertha043/FireOver/blob/master/usage.PNG"><br />
+<img alt="USAGE" src="https://github.com/jayateertha043/FireOver/blob/master/usage.PNG" style="height:100px;width:100px;"><br />
 
 python FireOver.py -u https://FirebaseDatabaseName.firebaseio.com
 
-
-python FireOver.py --url https://FirebaseDatabaseName.firebaseio.com
-
+python FireOver.py --url https://FirebaseDatabaseName.firebaseio.com 
+<br /><br />
 python FireOver.py -l list.txt -o poc.txt
 
-
 python FireOver.py --list list.txt -o poc.txt
+<br /><br />
 
 python FireOver.py -d poc.txt
-
 
 python FireOver.py --delete poc.txt
 
 ## DEMO:
 
-<img alt="DEMO" src="https://github.com/jayateertha043/FireOver/blob/master/demo.PNG"><br />
+<img alt="DEMO" src="https://github.com/jayateertha043/FireOver/blob/master/demo.PNG" style="height:100px;width:100px;"><br />
 
 
 ## Author
@@ -47,7 +45,7 @@ python FireOver.py --delete poc.txt
 * Github: [@jayateerthaa043](https://github.com/jayateerthaa043)
 
 ## Show your support
-<a href="https://www.buymeacoffee.com/en3EoKG7j" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 100px !important;" ></a><br />
+<a href="https://www.buymeacoffee.com/en3EoKG7j" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 50px;width:50px;" ></a><br />
 Give a ⭐️ if this project helped you!
 
 
