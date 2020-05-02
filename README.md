@@ -43,7 +43,7 @@
 👤 **Jayaateertha G**
 
 * Twitter: [@jayateerthaG](https://twitter.com/jayateerthaG)
-* Github: [@jayateerthaa043](https://github.com/jayateerthaa043)
+* Github: [@jayateertha043](https://github.com/jayateertha043)
 
 ## Show your support
 <a href="https://www.buymeacoffee.com/en3EoKG7j" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="50px" width="150px" ></a><br />
