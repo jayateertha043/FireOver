@@ -17,7 +17,7 @@
 
 
 ## USAGE:
-<img alt="USAGE" src="https://github.com/jayateertha043/FireOver/blob/master/usage.PNG" height="400px" width="100%"><br />
+<img alt="USAGE" src="https://github.com/jayateertha043/FireOver/blob/master/usage.PNG" height="500px" width="100%"><br />
 >Change the Config inside utils/config.py folder before use <br />
 
 ```python FireOver.py -u https://FirebaseDatabaseName.firebaseio.com```
@@ -35,7 +35,7 @@
 
 ## DEMO:
 
-<img alt="DEMO" src="https://github.com/jayateertha043/FireOver/blob/master/demo.PNG" height="400px" width="400px"><br />
+<img alt="DEMO" src="https://github.com/jayateertha043/FireOver/blob/master/demo.PNG" height="500px" width="100%"><br />
 
 <br />
 
