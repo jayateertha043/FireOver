@@ -1,4 +1,4 @@
-<span style="align=center;color:blue;">FireOver</span>
+<h1 style="align=center">FireOver</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.2-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/jayateertha043/FireOver/blob/master/LICENCE.txt" target="_blank">
