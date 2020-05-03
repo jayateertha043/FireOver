@@ -37,7 +37,11 @@
 
 <img alt="DEMO" src="https://github.com/jayateertha043/FireOver/blob/master/demo.PNG" height="400px" width="400px"><br />
 
+<br />
 
+## To DO:
+*Add MultiThreading
+*Add Getting list of URLS using search engine dorks and store them into list.txt for further takeovers
 ## Author
 
 👤 **Jayaateertha G**
