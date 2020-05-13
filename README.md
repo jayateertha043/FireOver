@@ -46,7 +46,7 @@
 *Add Getting list of URLS using search engine dorks and store them into list.txt for further takeovers<br />
 ## Author
 
-👤 **Jayaateertha G**
+👤 **Jayateertha G**
 
 * Twitter: [@jayateerthaG](https://twitter.com/jayateerthaG)
 * Github: [@jayateertha043](https://github.com/jayateertha043)
