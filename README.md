@@ -58,6 +58,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2020 [Jayaateertha Guruprasad](https://github.com/jayateerthaa043).<br />
+Copyright © 2020 [Jayateertha Guruprasad](https://github.com/jayateerthaa043).<br />
 This project is [MIT](https://github.com/jayateertha043/FireOver/blob/master/LICENCE.txt) licensed.
 
